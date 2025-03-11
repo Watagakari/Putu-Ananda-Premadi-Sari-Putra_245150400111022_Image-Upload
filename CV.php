@@ -88,7 +88,7 @@ if (isset($_SESSION['upload_error'])) {
         <p class="light"><!--Involving research and analysis on a topic we choose--></p>
         <p class="justified"><!--experienced in making scientific research since high school involving the topic of renewable energy and biological plant analysis. The research and analysis is based on others scientific paper, unproven theory, and well known facts--></p>
         <a href="cv.pdf" class="download-btn">Download CV</a>
-        <a href="login.php" class="download-btn">>Kembali ke Halaman Login</a>
+        <a href="login.php" class="download-btn">Kembali ke Halaman Login</a>
         
     </div>
 </div>
